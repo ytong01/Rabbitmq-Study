@@ -11,7 +11,7 @@
 
     <properties>
         <jdk.version>1.8</jdk.version>
-        <springmvc.version>4.3.6.RELEASE</springmvc.version>
+        <springmvc.version>5.3.19</springmvc.version>
     </properties>
 
 
